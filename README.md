@@ -1,4 +1,4 @@
 # euzinho#
 eu sou gabriel valaski
-estou curçando o alura
+estou cursando o alura
 sou fluente em frances
